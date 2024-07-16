@@ -1,2 +1,9 @@
 # Single File Django Project
- A minimal Django project encapsulated within a single Python file, demonstrating the basics of configuring settings, defining views, and routing URLs. This example includes a basic view that displays a “Hello World!” message with a dynamically generated SECRET_KEY and another view that evaluates a simple arithmetic expression.
+This repository contains a minimal Django project encapsulated within a single Python file. The project demonstrates the basics of configuring Django settings, defining views, and routing URLs without the typical Django project structure.
+
+## Features
+
+- Single file configuration for simplicity and quick setup.
+- Two example views:
+  - **Index View**: Displays a "Hello World!" message along with a dynamically generated `SECRET_KEY`.
+  - **Foo View**: Evaluates and displays the result of a simple arithmetic expression.
